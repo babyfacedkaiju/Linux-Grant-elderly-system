@@ -1,0 +1,7 @@
+NID:9507301234084
+LastName:Kunene
+FirstName:Lindiwe
+DoB:1995-07-30
+Residence:Siteki
+Region:Lubombo
+Country:Eswatini

@@ -1,0 +1,7 @@
+NID:4203041234083
+LastName:Mamba
+FirstName:Sipho
+DoB:1945-03-04
+Residence:Nhlangano
+Region:Shiselweni
+Country:Eswatini

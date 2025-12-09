@@ -1,0 +1,7 @@
+NID:7506181234082
+LastName:Simelane
+FirstName:Thandeka
+DoB:1948-11-22
+Residence:Manzini
+Region:Manzini
+Country:Eswatini

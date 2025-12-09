@@ -1,0 +1,7 @@
+NID:7910151234081
+LastName:Dlamini
+FirstName:Goodwill
+DoB:1950-05-15
+Residence:Mbabane
+Region:Hhohho
+Country:Eswatini
